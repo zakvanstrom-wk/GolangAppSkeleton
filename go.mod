@@ -1,3 +1,3 @@
-module github.com/adhocteam/GolangAppSkeleton
+module GolangAppSkeleton
 
 go 1.15
